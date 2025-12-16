@@ -1,0 +1,16 @@
+# venv
+.venv/
+
+# python cache
+__pycache__/
+*.py[cod]
+
+# logs
+logs/
+*.log
+
+# IDE
+.idea/
+
+# local helper
+structure.py
